@@ -1,17 +1,29 @@
-### Hi there 👋
-### 📫 How to reach me - Discord: awhly
 
-<!--
-**Awhly/awhly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a 3rd year full stack NodeJS & DiscordJS developer.
+Currently developing my own bot.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Javascript, Python(1 year), NodeJS, DiscordJS,
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on **my own bot**
+
+🧠 I'm currently learning **Python**
+
+📫 How to reach me **Discord: awhly**
+
+😄 Pronouns: **xe/xim**
+
+
+
+## Roadmap
+
+- [ ] Add support for many languages
+
+- [ ] Add more commands
+
+- [ ] ...?
+

@@ -1,11 +1,11 @@
 
 ## 🚀 About Me
-I'm a 3rd year full stack NodeJS & DiscordJS developer.
-Currently developing my own bot.
+I'm a 4th year full stack NodeJS & DiscordJS developer.
+...
 
 
 ## 🛠 Skills
-Javascript, Python(1 year), NodeJS, DiscordJS,
+Javascript, Python, NodeJS, DiscordJS, HTML, CSS
 
 
 ## Other Common Github Profile Sections
@@ -14,10 +14,6 @@ Javascript, Python(1 year), NodeJS, DiscordJS,
 🧠 I'm currently learning **Python**
 
 📫 How to reach me **Discord: awhly**
-
-😄 Pronouns: **xe/xim**
-
-
 
 ## Roadmap
 

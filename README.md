@@ -1,25 +1,10 @@
 
-## 🚀 About Me
-I'm a 4th year full stack NodeJS & DiscordJS developer.
-...
+## 👋 Haiiii! I'm Awhly, backend developer from US.
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,discordjs,git,github,html,linkedin,mongodb,npm,robloxstudio,vscode)](https://skillicons.dev)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/610887220576124929?theme=light&borderRadius=20px)](https://discord.com/users/610887220576124929)
 
-## 🛠 Skills
-Javascript, Python, NodeJS, DiscordJS, HTML, CSS
+## My Projects 💫
 
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on **my own bot**
-
-🧠 I'm currently learning **Python**
-
-📫 How to reach me **Discord: awhly**
-
-## Roadmap
-
-- [ ] Add support for many languages
-
-- [ ] Add more commands
-
-- [ ] ...?
-
+- [My website 🕸️](https://awhly.dev) made with CSS and JS.
+- [Project Sunrise 🌄](https://awhly.dev/nothing) my discord bot with is currently WIP, uses nodeJS, DiscordJS and Supabase.
